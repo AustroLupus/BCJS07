@@ -1,0 +1,23 @@
+{
+  "name": "banco_solar",
+  "version": "1.0.0",
+  "description": "Evaluacion Modulo 7 Banco Solar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "evaluacion",
+    "bancosolar",
+    "'banco solar",
+    "plataforma5"
+  ],
+  "author": "Carlos Horta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  }
+}
